@@ -2,6 +2,8 @@
 
 web3 react library with typescript
 
+using material ui
+
 ## Getting Started
 
 ```
